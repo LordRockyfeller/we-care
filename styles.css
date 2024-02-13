@@ -1,0 +1,129 @@
+* {
+    font-family: "Montserrat", sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    margin: 44px 0 144px 76px;
+}
+
+.link-header {
+    font-weight: 600;
+    font-size: 24px;
+    Line-height: 29.26px;
+    color: #989D9C;
+    cursor: pointer;
+    margin-right: 23px;
+}
+
+.button-header {
+    background: #665ae1;
+    border-radius: 20.5px;
+    Width: 130px;
+    Height: 41px;
+    border: none;
+    line-height: 29px;
+    font-size: 24px;
+    font-weight: 600px;
+    color: #ffffff;
+    cursor: pointer;
+
+}
+
+.logo-image {
+    Width: 568px;
+    Height: 500px;
+    margin-left: 125px;
+    display: inline-block;
+}
+
+section {
+    display: inline-block;
+    margin-left: 86px;
+}
+
+h1 {
+    font-size: 100px;
+    font-weight: 900;
+    line-height: 122px;
+    color: #515151;
+}
+
+h2 {
+    font-size: 58px;
+    font-weight: 500;
+    line-height: 71px;
+    color: #515151;
+}
+
+p {
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 29px;
+    Width: 515px;
+    margin-top: 32px;
+    margin-bottom: 65px;
+}
+
+.button-section {
+
+    width: 239px;
+    height: 64px;
+    border-radius: 50px;
+    font-size: 28px;
+    font-weight: 700;
+    line-height: 34px;
+    color: #000000;
+    cursor: pointer;
+    background: #ADFF00;
+    border: none;
+    filter: drop-shadow(0px 4px 4px);
+}
+
+@media screen and (max-width:900px) {
+    header {
+        display: none;
+    }
+
+    .logo-image {
+        width: 354px;
+        height: 317px;
+        margin-top: 100px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    h1 {
+        font-size: 50px;
+        font-weight: 900;
+        line-height: 61px;
+        text-align: center;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 20px;
+    }
+
+    h2 {
+        font-size: 30px;
+        font-weight: 500;
+        line-height: 37px;
+        text-align: center;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    p{
+        display: none;
+    }
+    .button-section{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 20px;
+    }
+}
