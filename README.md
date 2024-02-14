@@ -12,5 +12,5 @@
   <img src="https://github.com/LordRockyfeller/we-care/blob/main/img/img%201.png?raw=true"/></p>
   <p>como para mobile 
   <br>
-    <img src="https://github.com/LordRockyfeller/wide-coverage-location/blob/main/img/img%204.png?raw=true"/>
+    <img src="https://github.com/LordRockyfeller/we-care/blob/main/img/img%202.png?raw=true"/>
   </p>
